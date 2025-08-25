@@ -31,7 +31,7 @@ Relacionamentos principais:
 - Entrega está associada ao Cliente  
 
 > Caso queira visualizar o diagrama ER:  
-> `![Diagrama ER](Oficina.png)`  
+[Diagrama ER](Oficina.png)`  
 
 ---
 
